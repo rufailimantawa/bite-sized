@@ -1,0 +1,32 @@
+{
+  "name": "SoloGuide",
+  "shortname": "sologuide",
+  "tagline": "Solo Guides in Tech Innovation",
+  "author": {
+    "name": "Rufai Limantawa",
+    "url": "https://twitter.com/rufailimantawa"
+  },
+  "url": {
+    "github": "https://github.com/rufailimantawa",
+    "twitter": "https://twitter.com/rufailimantawa",
+    "facebook": "https://fb.me/rufailimantawa",
+    "repo": "https://github.com/rufailimantawa/sologuide-content"
+  },
+  "courses": [
+    {
+      "title": "Web Development",
+      "outline": "/tutorials/web-development/content-list.json",
+      "meta": "/tutorials/web-development/meta.json"
+    },
+    {
+      "title": "Frontend Development",
+      "outline": "/tutorials/frontend/content-list.json",
+      "meta": "/tutorials/frontend/meta.json"
+    },
+    {
+      "title": "Backend Development",
+      "outline": "/tutorials/backend/content-list.json",
+      "meta": "/tutorials/backend/meta.json"
+    }
+  ]
+}
