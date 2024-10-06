@@ -1,7 +1,25 @@
 {
   "name": "SoloGuide",
-  "shortname": "sologuide",
-  "tagline": "Solo Guides in Tech Innovation",
+  "tagline": "SoloGuide: Programming Roadmaps & Developer Resources",
+  "logo": "/img/sologuide-brand.png",
+  "logoSquare": "/img/sologuide-brand-square.png",
+  "description": "Discover comprehensive programming roadmaps, tutorials, and tech guides. Enhance your developer skills with step-by-step learning paths for all levels.",
+  "descriptionOg": "Explore step-by-step programming roadmaps, tech guides, and tutorials to boost your developer skills.",
+  "keyworks": [
+    "backend",
+    "coding tutorials",
+    "computer science",
+    "developer resources",
+    "frontend",
+    "fullstack",
+    "learn programming",
+    "sologuides",
+    "tech guides",
+    "programming roadmaps",
+    "programming sologuides",
+    "web design",
+    "web development"
+  ],
   "author": {
     "name": "Rufai Limantawa",
     "url": "https://twitter.com/rufailimantawa"
@@ -15,18 +33,18 @@
   "courses": [
     {
       "title": "Web Development",
-      "outline": "/tutorials/web-development/content-list.json",
-      "meta": "/tutorials/web-development/meta.json"
+      "outline": "/guides/web-development/content-list.json",
+      "meta": "/guides/web-development/meta.json"
     },
     {
       "title": "Frontend Development",
-      "outline": "/tutorials/frontend/content-list.json",
-      "meta": "/tutorials/frontend/meta.json"
+      "outline": "/guides/frontend/content-list.json",
+      "meta": "/guides/frontend/meta.json"
     },
     {
       "title": "Backend Development",
-      "outline": "/tutorials/backend/content-list.json",
-      "meta": "/tutorials/backend/meta.json"
+      "outline": "/guides/backend/content-list.json",
+      "meta": "/guides/backend/meta.json"
     }
   ]
 }
