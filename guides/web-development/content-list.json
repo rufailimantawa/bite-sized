@@ -1,0 +1,124 @@
+{
+  "chapters": [
+    {
+      "name": "Welcome to Web Development",
+      "relative-path": "welcome-to-web-development",
+      "module": "introduction-to-web",
+      "headings": [
+        "Introduction",
+        "Brief History of the Web",
+        "Evolution of Web Development",
+        "Importance of Web Development"
+      ],
+      "recommendation": "strict"
+    },
+    {
+      "name": "Web Development Basics",
+      "rel-path": "web-development-basics",
+      "module": "introduction-to-web",
+      "headings": [
+        "Understanding HTML, CSS, and JavaScript",
+        "Client-Side vs Server-Side Development",
+        "Web Standards and Best Practices"
+      ],
+      "recommendation": "strict"
+    },
+    {
+      "name": "Key Concepts",
+      "rel-path": "key-concepts",
+      "module": "introduction-to-web",
+      "headings": [
+        "Understanding Web Pages and Websites",
+        "Web Architecture: Front-end, Back-end, and Full-stack",
+        "Database Fundamentals",
+        "APIs and Web Services"
+      ],
+      "recommendation": "strict"
+    },
+    {
+      "name": "Career Paths and Opportunities",
+      "rel-path": "career-paths-and-opportunities",
+      "module": "introduction-to-web",
+      "headings": [
+        "Web Development Career Options",
+        "Specializations (Front-end, Back-end, Full-stack)",
+        "Freelancing and Entrepreneurship",
+        "Industry Trends and Future Outlook"
+      ],
+      "recommendation": "non-strict"
+    },
+    {
+      "name": "Technologies and Languages",
+      "rel-path": "technologies-and-languages",
+      "module": "introduction-to-web",
+      "headings": [
+        "Visual Design",
+        "The Language of the Web",
+        "Server-Side Languages",
+        "Frameworks"
+      ],
+      "recommendation": "strict"
+    },
+    {
+      "name": "Internet",
+      "rel-path": "internet",
+      "module": "foundational-skills",
+      "headings": [
+        "Internet protocol suite (TCP/IP)",
+        "How does the internet work?",
+        "Browsers and how they work?",
+        "DNS and how it works"
+      ],
+      "recommendation": "partial-strict"
+    },
+    {
+      "name": "Getting Started",
+      "rel-path": "getting-started",
+      "module": "foundational-skills",
+      "headings": [
+        "Setting Up Your Development Environment",
+        "Choosing a Text Editor or IDE",
+        "Choosing a modern web browsers",
+        "Installing a local web server",
+        "Tools used by professionals"
+      ],
+      "recommendation": "strict"
+    },
+    {
+      "name": "HTML Basics",
+      "rel-path": "html-basics",
+      "module": "foundational-skills",
+      "headings": [],
+      "recommendation": "strict"
+    },
+    {
+      "name": "CSS Basics",
+      "rel-path": "css-basics",
+      "module": "foundational-skills",
+      "headings": [],
+      "recommendation": "strict"
+    },
+    {
+      "name": "JavaScript Basics",
+      "rel-path": "javascript-basics",
+      "module": "foundational-skills",
+      "headings": [],
+      "recommendation": "strict"
+    },
+    {
+      "name": "Publishing the website",
+      "rel-path": "publishing-the-website",
+      "module": "foundational-skills",
+      "headings": [],
+      "recommendation": "strict"
+    }
+  ],
+  "modules": [
+    "Introduction to Web",
+    "Foundational Skills",
+    "Structuring the Web",
+    "Visual Styling",
+    "Dynamic Web Scripting",
+    "Server-Side Logic"
+  ]
+}

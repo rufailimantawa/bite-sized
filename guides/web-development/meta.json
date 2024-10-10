@@ -1,0 +1,26 @@
+{
+  "title": "Web Development",
+  "description": "Learn web development basics and advanced concepts with our comprehensive guide.",
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "web design",
+    "frontend",
+    "backend",
+    "web development"
+  ],
+  "author": {
+    "name": "Rufai Limantawa",
+    "url": "https://twitter.com/rufailimantawa"
+  },
+  "canonicalUrl": "/web-development",
+  "ogTitle": "Web Development Guide",
+  "ogType": "article",
+  "ogUrl": "/web-development",
+  "ogImage": "/img/web-development-og.jpg",
+  "twitterCard": "summary_large_image",
+  "twitterTitle": "Web Development Guide",
+  "twitterDescription": "Learn web development basics and advanced concepts.",
+  "twitterImage": "/img/web-development-twitter.jpg"
+}

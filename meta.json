@@ -30,21 +30,64 @@
     "facebook": "https://fb.me/rufailimantawa",
     "repo": "https://github.com/rufailimantawa/sologuide-content"
   },
-  "courses": [
+  "featured": [
     {
       "title": "Web Development",
-      "outline": "/guides/web-development/content-list.json",
-      "meta": "/guides/web-development/meta.json"
+      "url": "/guides/web-development",
+      "type": "guide",
+      "description": "Learn web development basics and advanced concepts with our comprehensive guide."
     },
     {
       "title": "Frontend Development",
-      "outline": "/guides/frontend/content-list.json",
-      "meta": "/guides/frontend/meta.json"
+      "url": "/guides/frontend-development",
+      "type": "guide",
+      "description": "Discover how to craft responsive and engaging user interfaces with our frontend development guide."
     },
     {
       "title": "Backend Development",
-      "outline": "/guides/backend/content-list.json",
-      "meta": "/guides/backend/meta.json"
+      "url": "/guides/backend-development",
+      "type": "guide",
+      "description": "Explore the art of building robust server-side applications with our backend development guide."
     }
-  ]
+  ],
+  "guides": {
+    "recommendation": [
+      {
+        "key": "strict",
+        "description": "Learn before moving to a next."
+      },
+      {
+        "key": "partial-strict",
+        "description": "Not strict, but recommended before moving to next."
+      },
+      {
+        "key": "non-strict",
+        "description": "Order not strict. Learn anytime"
+      },
+      {
+        "key": "optional",
+        "description": "Learn if you wish"
+      }
+    ],
+    "courses": [
+      {
+        "title": "Web Development",
+        "url": "/guides/web-development",
+        "outline": "/guides/web-development/content-list.json",
+        "meta": "/guides/web-development/meta.json"
+      },
+      {
+        "title": "Frontend Development",
+        "url": "/guides/frontend-development",
+        "outline": "/guides/frontend/content-list.json",
+        "meta": "/guides/frontend/meta.json"
+      },
+      {
+        "title": "Backend Development",
+        "url": "/guides/backend-development",
+        "outline": "/guides/backend/content-list.json",
+        "meta": "/guides/backend/meta.json"
+      }
+    ]
+  }
 }
